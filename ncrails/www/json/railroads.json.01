@@ -1,0 +1,32 @@
+{
+    "nsowner" : {
+        "jsonfile": "json/nsowner.geojson",
+        "tab" : "Norfolk Southern owned",
+        "color" : "#000000"
+    },
+    "nstrackage" : {
+        "jsonfile": "json/nstrackage.geojson",
+        "tab" : "Norfolk Southern Trackage",
+        "color" : "#000000"
+    },
+    "csxtowner" : {
+        "jsonfile": "json/csxtowner.geojson",
+        "tab" : "CSXT owned",
+        "color" : "#000000"
+    },
+    "csxttrackage" : {
+        "jsonfile": "json/csxttrackage.geojson",
+        "tab" : "CSXT trackage",
+        "color" : "#000000"
+    },
+    "shortlines" : {
+        "jsonfile": "json/shortlinetrackage.geojson",
+        "tab" : "Short Lines",
+        "color" : "#000000"
+    },
+    "amtrak" : {
+        "jsonfile": "json/amtraktrackage.geojson",
+        "tab" : "Amtrak",
+        "color" : "#000000"
+    }
+}

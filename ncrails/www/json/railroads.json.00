@@ -1,0 +1,26 @@
+{
+    "nsowner" {
+        "tab" : "Norfolk Southern owned",
+        "color" : "#000000"
+    },
+    "nstrackage" {
+        "tab" : "Norfolk Southern Trackage",
+        "color" : "#000000"
+    },
+    "csxtowner" {
+        "tab" : "CSXT owned",
+        "color" : "#000000"
+    },
+    "csxttrackage" {
+        "tab" : "CSXT trackage",
+        "color" : "#000000"
+    },
+    "shortlines" {
+        "tab" : "Short Lines",
+        "color" : "#000000"
+    },
+    "amtrak" {
+        "tab" : "Amtrak",
+        "color" : "#000000"
+    }
+}

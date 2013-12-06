@@ -1,0 +1,38 @@
+{
+    "nsowner" : {
+        "url": "json/nsowner.geojson",
+        "layerName" : "Norfolk Southern owned",
+        "defaultColor" : "#000000",
+        "selectColor" : "#00ff00"
+    },
+    "nstrackage" : {
+        "url": "json/nstrackage.geojson",
+        "layerName" : "Norfolk Southern Trackage",
+        "defaultColor" : "#aaaaaa",
+        "selectColor" : "#00ff00"
+    },
+    "csxtowner" : {
+        "url": "json/csxtowner.geojson",
+        "layerName" : "CSXT owned",
+        "defaultColor" : "#0000ff",
+        "selectColor" : "#00ff00"
+    },
+    "csxttrackage" : {
+        "url": "json/csxttrackage.geojson",
+        "layerName" : "CSXT trackage",
+        "defaultColor" : "#0000aa",
+        "selectColor" : "#00ff00"
+    },
+    "shortlines" : {
+        "url": "json/shortlineowner.geojson",
+        "layerName" : "Short Lines",
+        "defaultColor" : "#880000",
+        "selectColor" : "#00ff00"
+    },
+    "amtrak" : {
+        "url": "json/amtraktrackage.geojson",
+        "layerName" : "Amtrak",
+        "defaultColor" : "#ff0000",
+        "selectColor" : "#00ff00"
+    }
+}
