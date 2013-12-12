@@ -125,7 +125,6 @@ function init() {
     // bing roads layer
     /***
     var bingKey =
-    	"AhDZxht6JIs5jt4NiQ_O_cSItinAN5KlcFbFQGZ0cuntfdHolZNUhPZrK4thVlc1";
     var bingRoadsLayer = new OpenLayers.Layer.Bing({
         name: 'Bing Roads',
         layers: 'basic',
