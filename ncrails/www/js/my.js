@@ -18,11 +18,6 @@ function getCenter() {
 function addJsonLayer(map, layerCode) {
 
     $.getJSON('json/railroads.json', layerCode, function(data) {
-        console.log("In addJsonLayer layerCode = " + layerCode);
-        console.log(data[layerCode].url);
-        console.log(data[layerCode].layerName);
-        console.log(data[layerCode].defaultColor);
-        console.log(data[layerCode].selectColor);
 
         var defaultStyle = new OpenLayers.Style({
             'strokeColor': data[layerCode].defaultColor,
