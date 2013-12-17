@@ -69,7 +69,7 @@ function onPopupClose(event) {
     selectFeatureControl.unselect(selectedFeature);
 }
 
-/************   o n F e a t u r e S e l e c t   ***********/
+/************   o n F e a t u r e S e l e c t   ************/
 function onFeatureSelect(feature) {
     var popup = new OpenLayers.Popup.FramedCloud("chicken", 
         feature.geometry.getBounds().getCenterLonLat(),
